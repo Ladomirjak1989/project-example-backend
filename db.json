@@ -30,14 +30,14 @@
       "description": "Create a form with 5 input fields"
     }
   ],
-  
+
   "dishes": [
     {
     "id": 1,
     "name": "hachapuri",
     "imgUrl": "https://res.cloudinary.com/dq0fwucoj/image/upload/v1711523804/image_14_wb04ss.png",
     "description": "",
-    "price": "&#8364; 5.00"
+    "price": "5.00"
     }
   ]
 }
