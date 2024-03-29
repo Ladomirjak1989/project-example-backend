@@ -34,246 +34,276 @@
     {
       "id": 1,
       "name": "Hachapuri",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://res.cloudinary.com/dq0fwucoj/image/upload/v1711523804/image_14_wb04ss.png",
-      "description": "This soft, cheese-filled bread is the national dish of the country of Georgia. The open-faced Adjaruli version is filled with cheese and herbs, and garnished with an egg on top.",
-      "price": "5.00"
+      "description" : "This soft, cheese-filled bread is the national dish of the country of Georgia. The open-faced Adjaruli version is filled with cheese and herbs, and garnished with an egg on top.",
+      "price": "5.00",
+      "category":"maincourse"
     },
     {
       "id": 2,
       "name": "Crusted chicken romano",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/Ll4UmnUBOmgBMgbRQPV7QUSoBuk=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8414173_Crusted-Chicken-Romano_Brenda-Venable_4x3-879fbc83c31043429b43c7142e83a7c2.jpg",
       "description": "This copycat crusted chicken Romano proves that you don't have to go out to enjoy these chicken tenderloins—you can prepare them at home! Breaded with a mix of panko breadcrumbs, Parmesan, and pecorino Romano, and sautéed until deeply golden brown, these tenderloins are served with spaghetti and marinara sauce. Add sautéed zucchini or a tossed salad and some crusty garlic bread on the side.",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"maincourse"
     },
     {
       "id": 3,
       "name": "Parmesan crusted baked fish",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/pJf05VH4DUhTtcfDXDSE8LL0Wp0=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8584575_Parmesan-Crusted-Baked-Fish_TheDailyGourmet_4x3-0ad88603d8354d869040e83c42423180.jpg",
       "description": "This Parmesan-crusted baked fish is delicious can be made with any white fish. Oven-baked at high temperature, with a lemony herbed panko and Parmesan topping, dinner will be done fast.",
-      "price": "6.00"
+      "price": "6.00",
+      "category":"maincourse"
     },
     {
       "id": 4,
       "name": "Tex-Mex pork chops and rice skillet",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/KN34J3KqkZ8EToWCNhMTOK9NFNI=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7567945_One-Pan-Tex-Mex-Pork-Chops-and-Rice_Bibi_4x3-1afe62d1afbc409c8203057ff55f306d.jpg",
       "description": "Brown some chops, then add vegetables, broth and rice. This dinner only needs one skillet, a knife, a cutting board, some measuring cups and spoons, a can opener, and a mixing and serving spoon. We like this with simple quesadillas and a salad. Add some avocado slices, if you like!",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"maincourse"
     },
     {
       "id": 5,
       "name": "Fettuccine with shrimp tomatoes",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/2fSOagVxZdD50pXz_LbVMEwK_T8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8611703_Fettucine-with-Shrimp-Tomatoes-and-Spinach-Cream-Sauce_Brenda-Venable_4x3-9d6e4b7c9f494f35a619627691042ccd.jpg",
       "description": "This one-skillet fettuccine with shrimp, tomatoes, and spinach cream sauce, bright and fresh-tasting, cooks quickly. We love it with a simple tossed salad and a great bread.",
-      "price": "7.00"
+      "price": "7.00",
+      "category":"maincourse"
     },
     {
       "id": 6,
       "name": "Roested beef with garlic",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/a0H-Qs0ExHX5MOmq0lNfqkzWX3M=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6714082-0d7b51f14fd24facb47ccef6d2b0d57c.jpg",
       "description": "Garlic is a go-to ingredient for a lot of cooks. It forms the backbone of pan sauces, roasts, pasta, marinades, salad dressings and much more. Indeed, this pungent herb adds a savory depth and aroma to any dish it touches. It can also elevate the flavors of many other ingredients in a dish which is why no cook worth their salt is without a bulb at all times. If you can't get enough garlic and actively seek out garlic-heavy recipes, then we have the collection for you: 100 garlicky recipes to satisfy any craving for the biting herb. From garlicky breakfasts to side dishes and dinners, you're sure to find a garlic-infused recipe you'll love.",
-      "price": "6.50"
+      "price": "6.50",
+      "category":"maincourse"
     },
     {
       "id": 7,
       "name": "Mushroom and pea orzotto",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5956431.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
       "description": "A different take on risotto that uses orzo in place of arborio rice! Top with additional Pecorino-Romano before serving, if desired.",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"maincourse"
     },
     {
       "id": 8,
       "name": "Cabbage roll",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/HzHJw5Lbmt12Ua7b53Hl9AUVQ5s=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/stuffed-cabbage-rolls-910946518eb64e8a8171736dc412a825.jpg",
       "description": "Cabbage rolls might seem on the surface like an outdated, old-school grandmother recipe, something that is always on the menu at certain retro restaurants but is not exactly the kind of dish that gets home cooks excited to explore. But they are making a strong comeback! Whether it is restaurants like Galit in Chicago elevating the humble cabbage roll to an Israeli-influenced fine dining experience, or a Jewish deli called Mo's outside of Miami sticking to a classic sweet and sour recipe, cabbage rolls are on the rise.",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"maincourse"
     },
     {
       "id": 9,
       "name": "Glazed meatloaf",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/S-hWJ5YrTfbpPI3L__1KPLgqSDk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3169915-11632f8b15834916b427f8edacf9f0ec.jpg",
       "description": "It's topped with a sweet-and-sour glaze made from lemon juice and mustard.",
-      "price": "6.50"
+      "price": "6.50",
+      "category":"maincourse"
     },
     {
       "id": 10,
       "name": "Stuffed peppers",
-      "weight:": "450g",
+      "weight": "450g",
       "imgUrl": "https://www.allrecipes.com/thmb/s6scKRqPrvj02hEaUP5YUPRHTis=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6125310-bb6a67cc7f0b4cebbdde279cc92a813b.jpg",
       "description": "We've picked a veritable peck of stuffed pepper recipes, each filled with assorted savory delights, from Mexican-style chicken and enchilada sauce to Cajun-inspired andouille sausage and shrimp, to orzo pasta with mushrooms and chicken, to classic ground beef and rice in tomato sauce. These top-rated stuffed pepper recipes are always delicious, and budget-friendly, too.",
-      "price": "6.00"
+      "price": "6.00",
+      "category":"maincourse"
     }
   ],
   "soupcourse": [
     {
       "id": 1,
       "name": "Spiced carrot & lentil soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1074500_11-ee0d41a.jpg?quality=90&webp=true&resize=375,341",
       "description": "A delicious, spicy blend packed full of iron and low in fat to boot. It's ready in under half an hour, or can be made in a slow cooker",
-      "price": "4.00"
+      "price": "4.00",
+      "category":"soupcourse"
     },
     {
       "id": 2,
       "name": "Pumpkin soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-879453_11-5257860.jpg?quality=90&webp=true&resize=375,341",
       "description": "Whip up this easy pumpkin soup as a starter for a dinner party or a light supper when you need a bit of comfort – it has a lovely silky texture",
-      "price": "4.50"
+      "price": "4.50",
+      "category":"soupcourse"
     },
     {
       "id": 3,
       "name": "Kale soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/05/Kale-Soup440x400-10fda76.jpg?quality=90&webp=true&resize=375,341",
       "description": "Rustle up a bowl of filling kale soup with pasta. Leafy green veg such as kale are rich in chlorophyll and a natural sugar, which can help maintain a healthy gut",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"soupcourse"
     },
     {
       "id": 4,
       "name": "Jewish chicken soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2022/03/Passover-chicken-soup-with-horseradish-dill-matzo-balls-6da631e.jpg?quality=90&webp=true&resize=375,341",
       "description": "Make this comforting chicken soup to kick off celebrations for the Jewish festival of Passover. Take your matzo balls up a notch with punchy horseradish and dill",
-      "price": "4.50"
+      "price": "4.50",
+      "category":"soupcourse"
     },
     {
       "id": 5,
       "name": "Thai curry noodle soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/11/Thai-curry-noodle-soup-72b3f36.jpg?quality=90&webp=true&resize=375,341",
       "description": "Make this speedy, spicy and healthy noodle soup using whatever veg you have in the fridge. Filling and flavour-packed, it's ideal for busy weeknights",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"soupcourse"
     },
     {
       "id": 6,
       "name": "Chunky vegetable soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/05/Chunky-Veg-Soup-With-Dumplings440x400-9e489cc.jpg?quality=90&webp=true&resize=375,341",
       "description": "Make this vegetable soup for a healthy lunch. Cottage cheese is the secret ingredient in the gluten-free dumplings - a healthier option and adding in calcium",
-      "price": "4.50"
+      "price": "4.50",
+      "category":"soupcourse"
     },
     {
       "id": 7,
       "name": "Orzo & chickpea soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/10/Orzo-and-chickpea-soup-4740644.jpg?quality=90&webp=true&resize=375,341",
       "description": "Rustle up this healthy, low-fat, low-calorie soup with orzo, chickpeas, veg and a can of chopped tomatoes. Top with grated parmesan to serve",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"soupcourse"
     },
     {
       "id": 8,
       "name": "Mushroom noodle soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2022/12/Udon-Mushroom-Pho-08b0e0c.jpg?quality=90&webp=true&resize=375,341",
       "description": "Rustle up our moreish mushroom and noodle soup in minutes. Simple to make and ready in just 15 minutes, it's properly comforting, fast food that's full of flavour.",
-      "price": "4.50"
+      "price": "4.50",
+      "category":"soupcourse"
     },
     {
       "id": 9,
       "name": "Miso & butternut soup",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2021/09/Miso-and-butternut-soup-efe9277.jpg?quality=90&webp=true&resize=375,341",
       "description": "Make lunch more exciting with this silky and deeply savoury miso and butternut soup. Delivering all of your five-a-day, it's also bursting with goodness",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"soupcourse"
     },
     {
       "id": 10,
       "name": "Roasted red pepper soup with crispy croutons",
-      "weight:": "350g",
+      "weight": "350g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/11/Roasted-red-pepper-soup-with-crispy-croutons-de7e29d.jpg?quality=90&webp=true&resize=375,341",
       "description": "Warm up on colder evenings with this vibrant soup, spiked with fiery chilli powder and harissa. The crispy croutons are optional but add a satisfying crunch",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"soupcourse"
     }
   ],
   "desserts": [
     {
       "id": 1,
       "name": "Chocolate molten cakes",
-      "weight:": "100g",
+      "weight": "100g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/easy-chocolate-molten-cakes-37a25eb.jpg?quality=90&webp=true&resize=375,341",
       "description": "Bake an impressive dinner party dessert with minimum fuss – these chocolate puddings, also known as chocolate fondant or lava cake, have a lovely gooey centre",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"desserts"
     },
     {
       "id": 2,
       "name": "Jam doughnut pancakes",
-      "weight:": "150g",
+      "weight": "150g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/11/Jam-doughnut-pancakes-bde7883.jpg?quality=90&webp=true&resize=375,341",
       "description": "Try a twist on jam doughnuts to celebrate Hanukkah, the Jewish festival of light, in December. It’s traditional to eat fried foods during the celebrations",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"desserts"
     },
     {
       "id": 3,
       "name": "Chocolate truffle & honeycomb torte",
-      "weight:": "200g",
+      "weight": "200g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2022/10/Chocolate-truffle-and-honeycomb-torte-40ac4e3.jpg?quality=90&webp=true&resize=375,341",
       "description": "Try this easy no-bake dessert which uses just five ingredients. As well as looking great as a centrepiece, it's easy to carry to a gathering.",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"desserts"
     },
     {
       "id": 4,
       "name": "Pistachio tiramisu",
-      "weight:": "150g",
+      "weight": "150g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/10/Pistachio-tiramisu-6d3d0da.jpg?quality=90&webp=true&resize=375,341",
       "description": "Delight guests with a pistachio twist on tiramisu, with a pistachio cream filling and pistachio topping. It's a perfect dessert for a dinner party",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"desserts"
     },
     {
       "id": 5,
       "name": "Floating islands",
-      "weight:": "150g",
+      "weight": "150g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/floating-island-3a8b98b.jpg?quality=90&webp=true&resize=375,341",
       "description": "Whip up some floating islands at your next dinner party, the retro-cool French dessert featuring crème anglaise, meringue and caramel",
-      "price": "6.00"
+      "price": "6.00",
+      "category":"desserts"
     },
     {
       "id": 6,
       "name": "Blackberry & lemon fool",
-      "weight:": "200g",
+      "weight": "200g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/fools-a48cee6.jpg?quality=90&webp=true&resize=375,341",
       "description": "Create this delicious pudding in just 10 minutes, then pop it in the fridge. Serve in glasses and garnish with fresh blackberries for an elegant summer dessert",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"desserts"
     },
     {
       "id": 7,
       "name": "Vanilla panna cotta",
-      "weight:": "150g",
+      "weight": "150g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/panna-cotta-638cd76.jpg?quality=90&webp=true&resize=375,341",
       "description": "Try making this classic Italian dessert with delicate vanilla and a fresh strawberry topping. The perfect light sweet for a chilled summer gathering",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"desserts"
     },
     {
       "id": 8,
       "name": "Chocolate-orange French toast",
-      "weight:": "250g",
+      "weight": "250g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2023/11/Chocolate-orange-French-toast-3968d43.jpg?quality=90&webp=true&resize=375,341",
       "description": "Pair chocolate and zesty marmalade with panettone or challah for an indulgent Boxing Day brunch, or an easy dessert. Top with yogurt, orange slices and syrup to serve",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"desserts"
     },
     {
       "id": 9,
       "name": "Espresso mud cakes, chocolate syrup & ice cream",
-      "weight:": "200g",
+      "weight": "200g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-mud-cakes-chocolate-syrup-ice-cream-b950d16.jpg?quality=90&webp=true&resize=375,341",
       "description": "To finish your meal try this take on coffee and dessert, and if you have any coffee liqueur in the back of the drinks cabinet, put a splash in the syrup",
-      "price": "5.00"
+      "price": "5.00",
+      "category":"desserts"
     },
     {
       "id": 10,
       "name": "Apple crumble sundae",
-      "weight:": "200g",
+      "weight": "200g",
       "imgUrl": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/apple-crumble-sundae-831ecb4.jpg?quality=90&webp=true&resize=375,341",
       "description": "Ready in no time, this simple budget sundae will satisfy any midweek sweet cravings. If you're looking for a pudding you can whip up in a flash, this is it",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"desserts"
     }
   ],
   "drinks": [
@@ -282,35 +312,40 @@
       "name": "Irish coffee",
       "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F10113.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
       "description": "rish coffee is a delicious after-dinner cocktail. It's easy to make with freshly brewed coffee, Irish whiskey, and whipped cream. It's traditionally sweetened with brown sugar but Irish cream liqueur adds that little touch of luxury!",
-      "price": "4.00"
+      "price": "4.00",
+      "category":"drinks"
     },
     {
       "id": 2,
       "name": "Chocolate cream cold brew",
       "imgUrl": "https://www.allrecipes.com/thmb/QFCJ47k8BOkISBEh1_IHsCQzUBc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/7505242_Chocolate-Cream-Cold-Brew_Yoly_4x3-35883a8c1d054fb3a5635b0e2758b7c7.jpg",
       "description": "Ready in under 5 minutes, this chocolate foam cold brew tastes just like the one from that famous coffee house! And the best part is, it only costs a fraction of what that coffee house charges.",
-      "price": "4.50"
+      "price": "4.50",
+      "category":"drinks"
     },
     {
       "id": 3,
       "name": "Homemade lemonade",
       "imgUrl": "https://www.allrecipes.com/thmb/Z5xioduNjcNryQgkyaPRpNqfXvQ=/0x512/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/32385-best-lemonade-ever-DDMFS-4x3-8cef7761205e417499c89eb178e5ba2b.jpg",
       "description": "This lemonade recipe makes a very refreshing drink!",
-      "price": "3.00"
+      "price": "3.00",
+      "category":"drinks"
     },
     {
       "id": 4,
       "name": " Orangeade",
       "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F874219.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
       "description": "A refreshing change from lemonade. If you don't care for pulp in your drink, feel free to strain the juice before you add it to the water.",
-      "price": "4.00"
+      "price": "4.00",
+      "category":"drinks"
     },
     {
       "id": 5,
       "name": "Watermelon and strawberry lemonade",
       "imgUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5500158.jpg&q=60&c=sc&poi=auto&orient=true&h=512",
       "description": "This strawberry and watermelon lemonade recipe simply blends fresh fruit into a drink! It's best served cold over ice.",
-      "price": "5.50"
+      "price": "5.50",
+      "category":"drinks"
     }
   ]
 }
